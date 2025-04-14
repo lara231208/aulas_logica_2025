@@ -16,7 +16,7 @@ while(contador <= 5 ){
 console.log("fim")
 
 const prompt = require(`prompt-sync`)()
-/*
+
 let senha_senai = `123456`
 
 while(true){
@@ -47,7 +47,7 @@ while (encerrar != "SUB-TOTAL") {
 console.log(`Foram informados ${quantidade}`);
 //ToFixed e para colocar somente dois numeros apos a virgula
 console.log(`Valor total do produtos ${soma.toFixed(2)}`);
-*/
+
 
 //crie um jogo adivinhação de numeros
 
@@ -67,7 +67,7 @@ while (!acertou) {
         console.log(`Você chutou ${chute}, tente um numero maior`)
      
 }else if(chute == nrSorteado){
-        console.log(`Você chutou ${chute}, você acertou miseravi`);
+        console.log(`Você chutou ${chute}, você acertou miseravel`);
         acertou = true
     }
 }

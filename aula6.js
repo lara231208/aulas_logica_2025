@@ -43,7 +43,11 @@ let metade = numero / 2
 //passo4 
 console.log(`o dobro de ${numero} é ${dobro} e a metade é ${metade}`)
 
-//calculando
+//calculando custo projeto
+//let horaspordia = 8 
+//descobri a quantidade de horas trabalhadas por dia 
+aspordia = Number(prompt(`digite a quantidade de horas trabalhadas no projeto`))
+//calculandoa qtd de horas totais
 let horas_por_dia = 8 
 let dias_totais = 15
 let horas_trabalho = horas_por_dia * dias_totais 
