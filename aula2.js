@@ -44,37 +44,7 @@ console.log (`ola ${nome}, voce tem ${idade2}
  
  //no prompt sempre recebemos uma string
 nome = prompt ('qual é seu nome?')
-//usando o parseInt ou parseFloat converte os valores recebidos 
-//que vem como string para int ou float 
-idade = parseInt(prompt("qual é sua idade:"))
-peso = parseFloat (prompt('qual seu peso?'))
-
-console.log(`Seu nome é ${nome}, voce tem ${idade} e pesa ${peso}`)
-//valida o tipo da variavel
-console.log(typeof(idade))
-console.log(typeof(peso))
-//apos a conversao dos valores é possivel realizar 
-//calculos matematicos 
-console.log(idade + peso)
-
-//exercicios de variaveis e entrada de dados 
-//criar 4 variaveis nomeAluno, altura, escola, ano  
-let nomeAluno = "Lara"
-let altura = 1.72
-let escola = "Sesi"
-let ano = "2º ensino Médio"
-//exibir os valores das variaveis 
-console.log (`a aluna ${nomeAluno} tem ${altura}, estuda na escola ${escola} e esta no ${ano}`)
-
-//2 crie 3 variaveis e atribuia valores
-let nomeProfessor = "Ricardo"
-let materia = "senai"
-let anoIngresso = 2022
-//exibir valores das variaveis
-console.log (`o professor ${nomeProfessor} que leciona a matematica ${materia} no ${ano} e ingressou na ${escola} no ano de ${ anoIngresso}`)
 
 
-
-    
 
     

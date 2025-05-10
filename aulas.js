@@ -20,7 +20,7 @@ console.log (8+6);
 //dois valores de string com o sinal de + e uma concatenação
 console.log ('maria+ clara')
 //imprimindo varias informações ao mesmo tempo, de tipos diferentes 
-console.log('string'10,70,5, false)
+console.log('string',70,5, false)
 
 console.log(67-13);//subtração 
 console.log (234567*98765); //multiplicação 

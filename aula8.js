@@ -1,5 +1,5 @@
 const prompt = require('prompt-sync')(); 
-/*
+
 let altura =Number(prompt('digite sua altura:'))
 let peso =Number(prompt('digite seu peso'))
 let imc = peso/(altura **2)
@@ -52,7 +52,7 @@ if(vendas > 5000 || horas > 40){
 }else{
     console.log("nao tem direito ao bonus")
 }
-*/
+
 
 //crie um algoritmo que receba um caractere e verifique se ele é 
 //uma vogal ou uma consoante

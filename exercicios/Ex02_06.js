@@ -1,7 +1,7 @@
 const prompt = require('prompt-sync')();
 
-let numero =Number(prompt('me fale um numero ai lindão:'))
-let numero1 =Number(prompt('me fale outro numero ai gostosão:'))
+let numero =Number(prompt('me fale um numero ai lindona:'))
+let numero1 =Number(prompt('me fale outro numero ai neguinha:'))
 if(numero == numero1){
     console.log('seus numeros são iguais meu lindão')
 }else{

@@ -4,6 +4,6 @@ let times = ['Corinthians' , 'Palmeiras' , 'Flamengo' , 'São Paulo' , 'Vasco da
 // exiba 1 time como CAMPEÃO
 console.log(`o time campeão foi o: ${times[0]}`)
 //Exiba os 4 primeiros times como que irão jogar a libertadores
-console.log(times.slice(0,3))
+console.log(times.slice(0,4))
 //Exiba os 4 últimos times como os que estão rebaixados para a série B
 console.log(times.slice(16,20))

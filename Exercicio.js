@@ -30,8 +30,4 @@ nomealuno = prompt('digite o nome do aluno?')
 altura = parseFloat(prompt('digite a altura?'))
 escola = parseInt('digite o nome da escola?')
 ano = parseInt (prompt('digite o ano da turma?'))
-console.log(`a aluna ${nomeAluno} tem ${altura}, estuda na escola)
-
-nomeProfessor = prompt ('digite o nome do profesor:')
-materia = prompt('digite o nome da materia:')
-console.log
+console.log (`a aluna ${nomeAluno} tem ${altura}, estuda na escola`)
